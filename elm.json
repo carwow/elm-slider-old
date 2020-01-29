@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "carwow/elm-slider",
+    "name": "carwow/elm-slider-old",
     "summary": "Elm slider implementation",
     "license": "BSD-3-Clause",
     "version": "10.0.0",
