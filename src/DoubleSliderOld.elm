@@ -1,4 +1,4 @@
-module DoubleSlider exposing
+module DoubleSliderOld exposing
     ( Model, defaultModel
     , Msg, update, subscriptions
     , view, fallbackView, formatCurrentRange

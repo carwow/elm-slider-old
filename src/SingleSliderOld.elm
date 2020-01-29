@@ -1,4 +1,4 @@
-module SingleSlider exposing
+module SingleSliderOld exposing
     ( Model, defaultModel, ProgressDirection(..)
     , Msg(..), update, subscriptions
     , view
